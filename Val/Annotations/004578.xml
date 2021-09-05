@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation><filename>004578.jpg</filename>
+	<size>
+		<width>180</width>
+		<height>180</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>without_mask</name>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>47</ymin>
+			<xmax>116</xmax>
+			<ymax>136</ymax>
+		</bndbox>
+	</object>
+</annotation>
